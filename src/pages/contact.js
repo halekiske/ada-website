@@ -40,13 +40,13 @@ function AppContact() {
         <Form ref={form} onSubmit={sendEmail} className='contact-form'>
           <Row>
             <Col sm={4}>
-              <Form.Control type="text" name="user_name" placeholder="Enter your full name" required />
+              <Form.Control type="text" name="name" placeholder="Enter your full name" required />
             </Col>
             <Col sm={4}>
-              <Form.Control type="email" name="user_email" placeholder="Enter your email address" required />
+              <Form.Control type="email" name="email" placeholder="Enter your email address" required />
             </Col>
             <Col sm={4}>
-              <Form.Control type="tel" name="user_phone" placeholder="Enter your contact number" required />
+              <Form.Control type="tel" name="phone" placeholder="Enter your contact number" required />
             </Col>
           </Row>
           <Row>
