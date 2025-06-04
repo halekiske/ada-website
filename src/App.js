@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import { BrowserRouter as Routes, Route, Router } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import AppHeader from './components/header';
 import AppHero from './pages/hero';
 import AppAbout from './pages/about';
