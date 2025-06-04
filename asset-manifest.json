@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ada-website/static/css/main.472a0333.css",
-    "main.js": "/ada-website/static/js/main.a937984f.js",
+    "main.js": "/ada-website/static/js/main.18615c36.js",
     "static/js/453.39d4dd66.chunk.js": "/ada-website/static/js/453.39d4dd66.chunk.js",
     "static/media/team1.jpg": "/ada-website/static/media/team1.f6bce4af221fa4ef0041.jpg",
     "static/media/img4.jpg": "/ada-website/static/media/img4.ac2457ed80df4851bc6e.jpg",
@@ -24,11 +24,11 @@
     "static/media/team5.jpg": "/ada-website/static/media/team5.0c092e58785e7f9f766d.jpg",
     "index.html": "/ada-website/index.html",
     "main.472a0333.css.map": "/ada-website/static/css/main.472a0333.css.map",
-    "main.a937984f.js.map": "/ada-website/static/js/main.a937984f.js.map",
+    "main.18615c36.js.map": "/ada-website/static/js/main.18615c36.js.map",
     "453.39d4dd66.chunk.js.map": "/ada-website/static/js/453.39d4dd66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.472a0333.css",
-    "static/js/main.a937984f.js"
+    "static/js/main.18615c36.js"
   ]
 }
