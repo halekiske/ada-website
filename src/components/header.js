@@ -14,7 +14,7 @@ function AppHeader() {
   return (
     <Navbar bg="light" expand="lg" expanded={expanded} onMouseLeave={handleMouseLeave}>
       <Container>
-        <Navbar.Brand as={Link} to="/">ADA Surveying Services</Navbar.Brand>
+        <Navbar.Brand as={Link} to="/ada-website/">ADA Surveying Services</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={() => setExpanded(!expanded)} />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
