@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import { Routes, Route } from "react-router-dom";
+import { BrowserRouter as Routes, Route, Router } from "react-router-dom";
 import AppHeader from './components/header';
 import AppHero from './pages/hero';
 import AppAbout from './pages/about';
@@ -12,7 +12,7 @@ import AppFooter from './components/footer';
 
 function App() {
   return (
-    <Routes>
+    <Router>
     <div className="App">
           <header id='header'>
             <AppHeader />
@@ -32,7 +32,7 @@ function App() {
             <AppFooter />
           </footer>
         </div>
-        </Routes>
+        </Router>
   );
 }
 
