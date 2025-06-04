@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ada-website/static/css/main.472a0333.css",
+    "main.js": "/ada-website/static/js/main.e4376910.js",
+    "static/js/453.39d4dd66.chunk.js": "/ada-website/static/js/453.39d4dd66.chunk.js",
+    "static/media/team1.jpg": "/ada-website/static/media/team1.f6bce4af221fa4ef0041.jpg",
+    "static/media/img4.jpg": "/ada-website/static/media/img4.ac2457ed80df4851bc6e.jpg",
+    "static/media/bg-testimonial.jpg": "/ada-website/static/media/bg-testimonial.b26cbabc972e95786cbf.jpg",
+    "static/media/img3.jpg": "/ada-website/static/media/img3.0de99a88430e1bc4bbe0.jpg",
+    "static/media/img5.jpg": "/ada-website/static/media/img5.8b875c10b4771971057e.jpg",
+    "static/media/img6.jpg": "/ada-website/static/media/img6.4fb36c678c2eb6024eb8.jpg",
+    "static/media/img8.jpg": "/ada-website/static/media/img8.47b692c1528a67826d66.jpg",
+    "static/media/img1.jpg": "/ada-website/static/media/img1.763a73eea761e086c3b1.jpg",
+    "static/media/img2.jpg": "/ada-website/static/media/img2.e02b1b4f1793f99460aa.jpg",
+    "static/media/img-hero1.jpg": "/ada-website/static/media/img-hero1.120779fd8897db80a3c5.jpg",
+    "static/media/img-hero3.jpg": "/ada-website/static/media/img-hero3.4ff7a567b39792a96826.jpg",
+    "static/media/img-hero2.jpg": "/ada-website/static/media/img-hero2.1219dee48420fd4b03d7.jpg",
+    "static/media/team6.png": "/ada-website/static/media/team6.101dd277e4267acf3936.png",
+    "static/media/img7.jpg": "/ada-website/static/media/img7.057e4f5f17e3d09014b4.jpg",
+    "static/media/team3.jpg": "/ada-website/static/media/team3.7dace932f51c145a259e.jpg",
+    "static/media/img9.jpg": "/ada-website/static/media/img9.718b7137fd89ce7f2e54.jpg",
+    "static/media/team2.jpg": "/ada-website/static/media/team2.4a61d34cfa0111e1bd4a.jpg",
+    "static/media/team4.jpg": "/ada-website/static/media/team4.61a8e5056249c05aa48f.jpg",
+    "static/media/team5.jpg": "/ada-website/static/media/team5.0c092e58785e7f9f766d.jpg",
+    "index.html": "/ada-website/index.html",
+    "main.472a0333.css.map": "/ada-website/static/css/main.472a0333.css.map",
+    "main.e4376910.js.map": "/ada-website/static/js/main.e4376910.js.map",
+    "453.39d4dd66.chunk.js.map": "/ada-website/static/js/453.39d4dd66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.472a0333.css",
+    "static/js/main.e4376910.js"
+  ]
+}
