@@ -16,6 +16,7 @@ function App() {
     <div className="App">
           <header id='header'>
             <AppHeader />
+            <AppHero />
           </header>
           <main>
       <Routes>
