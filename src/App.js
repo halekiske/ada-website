@@ -19,7 +19,7 @@ function App() {
           </header>
           <main>
       <Routes>
-        <Route path="/" element={<AppHero />} />
+        <Route path="/ada-website" element={<AppHero />} />
         <Route path="/about" element={<AppAbout />} />
         <Route path="/services" element={<AppServices />} />
         <Route path="/works" element={<AppWorks />} />
