@@ -14,10 +14,10 @@ function AppContact() {
     e.preventDefault();
 
     emailjs.sendForm(
-      'your_service_id',        // 🔁 replace with your EmailJS service ID
-      'your_template_id',       // 🔁 replace with your EmailJS template ID
+      'service_sxry4xs',        // 🔁 replace with your EmailJS service ID
+      'template_e626iu9',       // 🔁 replace with your EmailJS template ID
       formRef.current,
-      'your_public_key'         // 🔁 replace with your EmailJS public key
+      'NCdOcWnyZm2Hz2upr'         // 🔁 replace with your EmailJS public key
     ).then(
       (result) => {
         alert("Message sent successfully!");
