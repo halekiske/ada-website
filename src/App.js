@@ -20,7 +20,6 @@ function App() {
           <main>
       <Routes>
         <Route path="/" element={<AppHero />} />
-        <Route index element={<AppHero />} />
         <Route path="/about" element={<AppAbout />} />
         <Route path="/services" element={<AppServices />} />
         <Route path="/works" element={<AppWorks />} />
